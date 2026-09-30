@@ -1,0 +1,6 @@
+{
+  "name": "Tenerife Café – Continental Dining & Patisserie",
+  "description": "Official website for Tenerife Café Lahore on Jail Road. Explore our continental menu, reserve glasshouse solarium dining, and order signature dishes online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
